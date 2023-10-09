@@ -1,7 +1,9 @@
 # 정보
 게임 프로그래머 준비생입니다.
-
-﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Estelle-17&langs_count=10&layout=compact&theme=dark)](https://github.com/Estelle-17/Estelle-17)
+<!--
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Estelle-17&show_icons=true&theme=radical)
+-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Estelle-17&langs_count=10&layout=compact&theme=dark)](https://github.com/Estelle-17/Estelle-17)
 
 - 학습중인 언어 (Leaning Language)
     
