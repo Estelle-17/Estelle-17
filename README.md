@@ -27,7 +27,7 @@
     
 - 정보
 
-  <img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat-square&logo=notion&logoColor=black"/> <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/>  
+  <a href="https://wnsdn.notion.site/Unreal-Engine-5-29641bfbff494e8eb75b931eff6df7e1?pvs=4"><img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat-square&logo=notion&logoColor=black"/> <a href="https://velog.io/@estelle17"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/>  
 
   
 # 현재 진행중인 프로젝트
