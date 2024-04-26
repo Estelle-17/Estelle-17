@@ -32,9 +32,10 @@
   
 # 현재 진행중인 프로젝트
 ## Project
-#### Unreal Multiplay Game
-  - Design 진행중
-  - 언리얼 멀티 구조를 파악하기 위한 제작 프로젝트
+#### FishingGame
+  - Unity제작
+  - 구현 작업 진행중
+  - 플레이스토어의 출시를 목표로 진행되는 프로젝트
   - 링크 :
 <!--
 **Estelle-17/Estelle-17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
