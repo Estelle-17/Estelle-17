@@ -37,7 +37,7 @@
   - 플레이스토어의 출시를 목표로 진행되는 프로젝트
   - 링크 : https://velog.io/@estelle17/series/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8FishingGame
 
-#### FishingGame
+#### LastManStanding
   - Unity제작
   - 구현 진행중
   - 멀티 게임 제작 프로젝트
