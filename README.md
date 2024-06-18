@@ -33,8 +33,14 @@
 ## Project
 #### FishingGame
   - Unity제작
-  - 구현 작업 진행중
+  - 잠시 중단
   - 플레이스토어의 출시를 목표로 진행되는 프로젝트
+  - 링크 : https://velog.io/@estelle17/series/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8FishingGame
+
+#### FishingGame
+  - Unity제작
+  - 구현 진행중
+  - 멀티 게임 제작 프로젝트
   - 링크 : https://velog.io/@estelle17/series/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8FishingGame
 <!--
 **Estelle-17/Estelle-17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
