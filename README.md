@@ -39,7 +39,7 @@
 
 #### LastManStanding
   - Unity제작
-  - 구현 진행중
+  - 1.0버전 완성 / 유지보수 진행중
   - 멀티 게임 제작 프로젝트
   - 링크 : https://velog.io/@estelle17
 <!--
