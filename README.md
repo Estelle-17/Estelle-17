@@ -1,5 +1,5 @@
 # 정보
-게임 프로그래머 준비생입니다.
+게임 클라이언트 프로그래머 준비생입니다.
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Estelle-17&show_icons=true&theme=radical)
 -->
