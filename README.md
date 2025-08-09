@@ -31,17 +31,11 @@
   
 # 현재 진행중인 프로젝트
 ## Project
-#### FishingGame
+#### Project109
   - Unity제작
-  - 잠시 중단
-  - 플레이스토어의 출시를 목표로 진행되는 프로젝트
-  - 링크 : https://velog.io/@estelle17/series/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8FishingGame
-
-#### LastManStanding
-  - Unity제작
-  - 1.0버전 완성 / 유지보수 진행중
-  - 멀티 게임 제작 프로젝트
-  - 링크 : https://velog.io/@estelle17
+  - 덱 빌딩 로그라이크 게임
+  - 상업적 목표로 제작 중
+  - 링크 : https://github.com/Estelle-17/Project109
 <!--
 **Estelle-17/Estelle-17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
