@@ -4,6 +4,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Estelle-17&show_icons=true&theme=radical)
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Estelle-17&langs_count=10&layout=compact&theme=dark)](https://github.com/Estelle-17/Estelle-17)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Estelle-17)](https://github.com/Estelle-17/Estelle-17)
 
 - 학습중인 언어 (Leaning Language)
     
